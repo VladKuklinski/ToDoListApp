@@ -1,6 +1,6 @@
-# ToDoList
+# TodoMate
 
-A simple and modern single-screen app for iOS, built with SwiftUI  
+TodoMate is a simple and modern single-screen app for iOS, built with SwiftUI  
 Tasks are saved locally using UserDefaults, so your list persists between app launches.
 
 
