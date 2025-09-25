@@ -6,7 +6,7 @@ Tasks are saved locally using UserDefaults, so your list persists between app la
 
 ## Features
 
-- ✏️ Add, edit, and delete tasks
+- ✏️ Add and delete tasks
 - ✅ Mark tasks as completed
 - 💾 Persistent storage with UserDefaults
 - 🖤 Clean and minimalistic single-screen design
